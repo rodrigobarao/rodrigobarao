@@ -1,4 +1,4 @@
-## Olá, mundo! Meu nome é <strong>Rodrigo Barao</strong>! 👋
+## Olá, mundo! Meu nome é <strong>Rodrigo Barão</strong>! 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -7,11 +7,11 @@ Sou graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atua
   
 Explorar desafios é minha paixão, sempre em busca de oportunidades para aprender e crescer. A colaboração me inspira, e estou aberto a compartilhar ideias inovadoras. Conectar-me com pessoas é uma alegria, pois juntos podemos transformar o mundo digital em algo ainda mais incrível.
 <h2 align="left">
- 🦄 Linguagens:
+ 👨🏻‍💻 Linguagens:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=148&color=e70808">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=e70808">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -23,7 +23,7 @@ Explorar desafios é minha paixão, sempre em busca de oportunidades para aprend
 ##
 
 <p align="left">
-  💌 Contatos: ⤵️
+  📫 Contatos: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/rodrigoalmeida92//" title="LinkedIn" target="_blank">

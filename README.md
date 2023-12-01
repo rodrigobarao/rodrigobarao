@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Sou graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente, curso Pós-Graduação em Especialização em Tecnologia Java pela Universidade Tecnológica Federal do Paraná (UFTPR) além de aprimorar constantemente minhas habilidades e conhecimentos por meio da plataforma Alura.
+Sou graduado em Sistemas de Informação pela Universidade Estácio de Sá. Atualmente, curso Pós-Graduação em Especialização em Tecnologia Java pela Universidade Tecnológica Federal do Paraná (UTFPR) além de aprimorar constantemente minhas habilidades e conhecimentos por meio da plataforma Alura.
   
 Explorar desafios é minha paixão, sempre em busca de oportunidades para aprender e crescer. A colaboração me inspira, e estou aberto a compartilhar ideias inovadoras. Conectar-me com pessoas é uma alegria, pois juntos podemos transformar o mundo digital em algo ainda mais incrível.
 

@@ -74,6 +74,9 @@ ________________________________________________________________________________
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigobarao&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarao&layout=compact&theme=radical&custom_title=Languages"/></td>
+      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigobarao&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarao&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 

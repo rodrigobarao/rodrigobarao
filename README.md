@@ -59,6 +59,22 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________
 #### Bootcamps e Cursos:
 [<img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" height="50"></a>](https://hermes.dio.me/certificates/FURAPTUV.pdf)
+<img src="https://hermes.dio.me/tracks/eca02131-eb6b-46ed-9a28-f6ee597aea56.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/ae048a51-04ee-4853-9deb-46b9fc113a92.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/91b94770-d89f-46fa-83b4-832db9996cbd.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/0f6cd805-b140-481f-9575-5d311432c70a.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="50"></a>
+<img src="https://hermes.dio.me/tracks/0325e166-fa3c-4f1b-ace1-8e7f3c4d5841.png" height="50"></a>
+
+
+
+
+
 
 
 #### Certificações e Formações:
@@ -74,9 +90,7 @@ ________________________________________________________________________________
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigobarao&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarao&layout=compact&theme=radical&custom_title=Languages"/></td>
-      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigobarao&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarao&layout=compact&theme=radical&custom_title=Languages"/></td>
+
   </tr>
 </table>
 

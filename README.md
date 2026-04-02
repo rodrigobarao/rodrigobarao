@@ -84,30 +84,6 @@ Minha trajetória profissional foi construída em ambientes organizacionais comp
 
 ---
 
-## Professional Experience
-
-### NAV BRASIL Serviços de Navegação Aérea  
-**Desenvolvedor de Sistemas**  
-`Nov 2021 - Atual`
-
-- Desenvolvimento e manutenção de sistemas corporativos com **Java, Spring Boot, SQL, PostgreSQL, JPA/Hibernate e APIs REST**
-- Participação na análise de demandas e implementação de melhorias funcionais e técnicas
-- Atuação com **Maven, Git, Docker e Swagger/OpenAPI**
-- Apoio à qualidade de software com **JUnit e Mockito**
-- Foco em **automação, produtividade, eficiência operacional e integração entre sistemas**
-- Experiência com integrações em ambientes de nuvem **AWS**
-
-### Pontobit Soluções Tecnológicas  
-**Analista Pleno**  
-`Ago 2019 - Nov 2021`
-
-- Administração de ambientes corporativos com **Exchange, Active Directory, File Server e Microsoft 365**
-- Gerenciamento de usuários, acessos, grupos, permissões e licenças
-- Suporte à infraestrutura de datacenter e ambientes virtualizados
-- Atuação com backup, restauração, disaster recovery e melhoria contínua da infraestrutura
-
----
-
 ## Education
 
 - **Pós-graduação em Inteligência Artificial e Aprendizado de Máquina** — PUC Minas  

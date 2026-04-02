@@ -1,101 +1,132 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# Rodrigo Almeida 
+# Rodrigo Almeida Farias
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Developer+Java;Back-end+%7C+APIs+REST+%7C+Integra%C3%A7%C3%A3o+de+Sistemas;Automa%C3%A7%C3%A3o+Inteligente+%7C+IA+Aplicada+%7C+Machine+Learning" alt="Typing SVG" />
 
-Programador Jr. de Software FullStack  - Java | Spring | HTML | CSS | JavaScript | TypeScript.
+<br>
 
-Formado em Sistemas de Informaçõe (ESTÁCIO) e Cursando Pós-Graduação em especialização em Tecnologia Java (UTFPR).
+<a href="mailto:rodrigozalmeida@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/rodrigoalmeida92" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Almeida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rodrigobarao" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-rodrigobarao-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
+<br><br>
 
-Explorar desafios é minha paixão, sempre em busca de oportunidades para aprender e crescer. A colaboração me inspira, e estou aberto a compartilhar ideias inovadoras. Conectar-me com pessoas é uma alegria, pois juntos podemos transformar o mundo digital em algo ainda mais incrível.
-
-
-__________________________________________________________________________________________________________________
-### TECNOLOGIAS
-
-#### Linguagens de Programação:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Banco de Dados:
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-
-#### Frameworks:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-
-
-#### Ambientes Desenvolvimento (IDE):
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
-#### Outras Tecnologias:
-![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
-![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-__________________________________________________________________________________________________________________
-#### Bootcamps e Cursos:
-[<img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" height="50"></a>](https://hermes.dio.me/certificates/FURAPTUV.pdf)
-<img src="https://hermes.dio.me/tracks/eca02131-eb6b-46ed-9a28-f6ee597aea56.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/da6041a9-80ef-409e-bd50-5e7be4dfadf6.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/ae048a51-04ee-4853-9deb-46b9fc113a92.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/bc454148-6e72-4047-95cc-d516706ae405.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/48e9f018-f7c9-4f0f-b524-cd9223579626.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/91b94770-d89f-46fa-83b4-832db9996cbd.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/c90e7979-b807-4941-895a-8d85564b142e.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/0f6cd805-b140-481f-9575-5d311432c70a.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/e0b4ad51-a4c7-4e61-a683-c04f6d376e9c.png" height="50"></a>
-<img src="https://hermes.dio.me/tracks/0325e166-fa3c-4f1b-ace1-8e7f3c4d5841.png" height="50"></a>
-
-
-
-
-
-
-
-#### Certificações e Formações:
-
-[<img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png" height="50"/></a>](https://www.scrumstudy.com/certification/verify?type=SFC&number=762541)
-
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=rodrigobarao&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobarao&layout=compact&theme=radical&custom_title=Languages"/></td>
-
-  </tr>
-</table>
-
-__________________________________________________________________________________________________________________
-
-"Não há desenvolvimento sem envolvimento e nem desempenho sem empenho!"
+<img src="https://komarev.com/ghpvc/?username=rodrigobarao&style=for-the-badge&color=0e75b6" alt="profile views" />
 
 </div>
+
+---
+
+## About Me
+
+Desenvolvedor de Software com experiência no desenvolvimento de soluções corporativas utilizando **Java, Spring Boot, Python e SQL**, com atuação em **automação de processos, integração entre sistemas e evolução contínua de aplicações**.
+
+Minha trajetória profissional foi construída em ambientes organizacionais complexos, unindo **visão técnica, entendimento de processos de negócio e foco em eficiência operacional**. Atualmente, aprofundo meus estudos em **Inteligência Artificial e Aprendizado de Máquina**, com especial interesse em **back-end, automação inteligente, arquitetura de software e soluções escaláveis orientadas a valor**.
+
+---
+
+## Core Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+
+### Back-end & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs_REST-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsservi%C3%A7os-FF6F00?style=flat-square&logo=microgenetics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code-2E8B57?style=flat-square&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLID-4B5563?style=flat-square&logo=sonarqube&logoColor=white" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+### DevOps, Quality & Tools
+<p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+### AI, Automation & Integration
+<p>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0A192F?style=flat-square&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o_de_Sistemas-1F6FEB?style=flat-square&logo=icloud&logoColor=white" />
+</p>
+
+---
+
+## Professional Experience
+
+### NAV BRASIL Serviços de Navegação Aérea  
+**Desenvolvedor de Sistemas**  
+`Nov 2021 - Atual`
+
+- Desenvolvimento e manutenção de sistemas corporativos com **Java, Spring Boot, SQL, PostgreSQL, JPA/Hibernate e APIs REST**
+- Participação na análise de demandas e implementação de melhorias funcionais e técnicas
+- Atuação com **Maven, Git, Docker e Swagger/OpenAPI**
+- Apoio à qualidade de software com **JUnit e Mockito**
+- Foco em **automação, produtividade, eficiência operacional e integração entre sistemas**
+- Experiência com integrações em ambientes de nuvem **AWS**
+
+### Pontobit Soluções Tecnológicas  
+**Analista Pleno**  
+`Ago 2019 - Nov 2021`
+
+- Administração de ambientes corporativos com **Exchange, Active Directory, File Server e Microsoft 365**
+- Gerenciamento de usuários, acessos, grupos, permissões e licenças
+- Suporte à infraestrutura de datacenter e ambientes virtualizados
+- Atuação com backup, restauração, disaster recovery e melhoria contínua da infraestrutura
+
+---
+
+## Education
+
+- **Pós-graduação em Inteligência Artificial e Aprendizado de Máquina** — PUC Minas  
+  `2026 - 2027`
+
+- **Pós-graduação em Tecnologia Java** — UTFPR  
+  `2023 - 2024`
+
+- **Bacharelado em Sistemas de Informação** — Universidade Estácio de Sá  
+  `2017 - 2022`
+
+---
+
+## Focus Areas
+
+```text
+Back-end Development
+System Integration
+Process Automation
+Software Architecture
+Applied Artificial Intelligence
+Scalable Corporate Solutions

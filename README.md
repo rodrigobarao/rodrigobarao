@@ -16,9 +16,8 @@
   <img src="https://img.shields.io/badge/GitHub-rodrigobarao-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=rodrigobarao&style=for-the-badge&color=0e75b6" alt="profile views" />
+
 
 </div>
 
